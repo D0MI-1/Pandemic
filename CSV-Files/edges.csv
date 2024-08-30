@@ -48,6 +48,7 @@ St Petersburg,Istanbul
 Milan,Istanbul
 Algiers,Istanbul
 Algiers,Cairo
+Khartoum,Johannesburg
 Khartoum,Cairo
 Istanbul,Moscow
 Istanbul,Baghdad
@@ -59,6 +60,7 @@ Baghdad,Tehran
 Baghdad,Karachi
 Baghdad,Riyadh
 Riyadh,Karachi
+Tehran,Karachi
 Tehran,Delhi
 Karachi,Delhi
 Karachi,Mumbai
@@ -82,6 +84,7 @@ Shanghai,Hong Kong
 Bangkok,Hong Kong
 Bangkok,Ho Chi Minh City
 Bangkok,Jakarta
+Jakarta,Ho Chi Minh City
 Jakarta,Sydney
 Osaka,Taipei
 Taipei,Manila
