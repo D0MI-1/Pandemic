@@ -61,9 +61,9 @@ If you need the large CSV files for simulations, please contact me via email. Th
 3. Run the cells to see all diagrams and graphs
 
 ## Screenshots
-![Application Screenshot](screenshots/Pandemi1.png)
-![Application Screenshot](screenshots/Pandemi2.png)
-![Application Screenshot](screenshots/Pandemi3.png)
+![Application Screenshot](screenshots/Pandemic1.png)
+![Application Screenshot](screenshots/Pandemic2.png)
+![Application Screenshot](screenshots/Pandemic3.png)
 
 ## Future Development
 This project is currently complete. However, feel free to fork and expand upon the work if interested.
